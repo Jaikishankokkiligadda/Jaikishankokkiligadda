@@ -1,10 +1,3 @@
-# 💫 About Me:
-Perfect — here’s a **research-oriented + job-oriented GitHub profile**, written specifically to appeal to **European recruiters, hiring managers, and research groups**.
-Tone is **clear, evidence-based, professional**, and focused on **impact, methods, and deployment** (which EU roles really care about).
-
-You can paste this **as-is** into your GitHub Profile README 👇
-
----
 
 ## 👋 About Me
 
