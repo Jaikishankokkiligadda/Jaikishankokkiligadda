@@ -1,5 +1,127 @@
 # 💫 About Me:
-Got it! To create a GitHub profile that reflects **you personally**, I need to summarize your background and skills. Based on what I know about you:<br><br>---<br><br>### About You:<br><br>* **Name:** Jai Kishan Kokkiligadda<br>* **Education:** master in data science skovde university <br>* **Work Experience:**<br><br>  * 2 years as a Data Analyst<br>  <br>* **Skills:** Python, Data Analysis, Power BI, Machine Learning, AI, Time Series Forecasting, Excel, Data Visualization<br>* **Certifications:** IBM Python for Data Science, Data Analysis with Python, Power BI Virtual Internship, IBM SkillsNetwork projects in ML and Data Science<br>* **Interests ml , AI & Deep Learning ,computer vision and deployment <br>* **Projects & Creativity:**<br>LLM<br>ENERGY<br>credit_fraud<br>Fraud-Detection-in-Bank-Transactions<br>clv and recommendation<br><br><br><br><br>  
+Perfect — here’s a **research-oriented + job-oriented GitHub profile**, written specifically to appeal to **European recruiters, hiring managers, and research groups**.
+Tone is **clear, evidence-based, professional**, and focused on **impact, methods, and deployment** (which EU roles really care about).
+
+You can paste this **as-is** into your GitHub Profile README 👇
+
+---
+
+## 👋 About Me
+
+**Jai Kishan Kokkiligadda**
+🎓 **MSc in Data Science** — *University of Skövde, Sweden*
+
+I am a data science graduate with strong interests in **machine learning research, applied AI, and production-ready data systems**. My work focuses on building **interpretable, scalable, and deployable ML solutions** for real-world problems, particularly in finance, energy, and intelligent systems.
+
+I am actively seeking **Data Scientist / Machine Learning Engineer / Applied AI roles** across Europe.
+
+---
+
+## 🎯 Research & Professional Interests
+
+* Machine Learning & Statistical Modeling
+* Deep Learning & Representation Learning
+* Computer Vision
+* Time Series Forecasting
+* Fraud Detection & Financial Risk Modeling
+* Large Language Models (LLMs)
+* End-to-End ML Deployment (research → production)
+
+---
+
+## 💼 Professional Experience
+
+### Data Analyst — *2 Years*
+
+* Designed and implemented **data analysis pipelines** using Python
+* Performed **exploratory data analysis (EDA)** and feature engineering
+* Built dashboards and reports using **Power BI** for business insights
+* Translated data findings into **actionable recommendations**
+* Worked closely with stakeholders to solve data-driven problems
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Tools**
+
+* Python, SQL
+* Pandas, NumPy, Scikit-learn
+* Power BI, Excel
+
+**Machine Learning & AI**
+
+* Supervised & Unsupervised Learning
+* Time Series Models (ARIMA, SARIMA, ML-based forecasting)
+* Deep Learning (CNNs, Neural Networks)
+* Computer Vision Pipelines
+* Fraud Detection Models
+* Model Evaluation & Explainability
+
+**Deployment & Engineering**
+
+* End-to-End ML Pipelines
+* Model Deployment Concepts
+* Reproducible Experiments
+* Research-to-Production workflows
+
+---
+
+## 📚 Certifications
+
+* **IBM – Python for Data Science**
+* **IBM – Data Analysis with Python**
+* **PwC – Power BI Virtual Internship**
+* **IBM SkillsNetwork – Machine Learning & Data Science Projects**
+
+---
+
+## 🚀 Selected Projects
+
+### 🔹 Fraud Detection in Bank Transactions
+
+* Built classification models to identify fraudulent financial activities
+* Applied feature engineering and model evaluation techniques
+* Focused on precision–recall trade-offs and real-world applicability
+
+### 🔹 Credit Fraud Detection
+
+* Developed ML pipelines for highly imbalanced datasets
+* Compared multiple algorithms for robustness and interpretability
+
+### 🔹 Energy Forecasting
+
+* Time series–based energy consumption prediction
+* Applied statistical and ML models for forecasting accuracy
+
+### 🔹 Customer Lifetime Value (CLV) & Recommendation Systems
+
+* Customer segmentation and value estimation
+* Recommendation logic based on behavioral patterns
+
+### 🔹 LLM Experiments
+
+* Hands-on experimentation with Large Language Models
+* Focus on applied use cases and system integration
+
+---
+
+## 🌍 Career Focus
+
+* Open to **Data Scientist, Machine Learning Engineer, AI Engineer** roles
+* Interested in **research-driven teams** and **applied AI environments**
+* Actively seeking opportunities across **Sweden and Europe**
+
+---
+
+If you want, next I can:
+
+* 🔬 Add a **“Research Philosophy”** section
+* 📈 Optimize this for **ATS + recruiter scanning**
+* 🧾 Rewrite project descriptions in **academic/research-paper style**
+* 🧠 Tailor it for **PhD / Research Assistant / Industrial Research roles**
+
+Just tell me the next step.
 
 
 ## 🌐 Socials:
